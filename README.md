@@ -3,9 +3,7 @@
 
 <img align="center" alt="coding" width="" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haroon-aldalali&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-aldalali" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haroon-aldalali" alt="haroon-aldalali" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/h7_o77" target="blank"><img src="https://img.shields.io/twitter/follow/h7_o77?logo=twitter&style=for-the-badge" alt="h7_o77" /></a> </p>
 
